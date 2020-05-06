@@ -41,7 +41,7 @@ body {
 }
 
 .uc__art img {
-    width: 70%;
+    width: 50%;
 }
 
 .title {
@@ -82,23 +82,4 @@ body {
     font-size: 14px;
     letter-spacing: 1px;
     margin-bottom: 1rem;
-}
-
-.uc__form {
-    position: relative;
-}
-
-.uc__form input {
-    font-family: inherit;
-    outline: none;
-    font-size: 90%;
-    padding: 10px 1rem;
-    border: none;
-    display: block;
-    border-radius: 2px;
-}
-
-
-.uc__form .submit:hover {
-    background-color: #4e2d5c;
 }
