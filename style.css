@@ -76,7 +76,7 @@ body {
 }
 
 .uc__subscribe {
-    background-color: #9b59b6;
+    background-color: #F0F8FF;
     padding: 1.5rem;
     width: 85%;
     border-radius: 3px;
@@ -86,7 +86,7 @@ body {
 .uc__subscribe h3 {
     font-weight: normal;
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 14px;
     letter-spacing: 1px;
     margin-bottom: 1rem;
 }
@@ -105,22 +105,6 @@ body {
     border-radius: 2px;
 }
 
-.uc__form .email {
-    width: 100%;
-    background-color: #ecf0f1;
-}
-
-.uc__form .submit {
-    position: absolute;
-    top: 0;
-    right: 0;
-    background-color: #7a3a95;
-    color: #fff;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    cursor: pointer;
-    transition: background-color .22s ease;
-}
 
 .uc__form .submit:hover {
     background-color: #8e44ad;
